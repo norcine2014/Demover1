@@ -28,7 +28,7 @@ Bienvenue dans cette application interactive basée sur la méthode **Dykstra-Pa
 
 ---
 
-ℹ️ Cette application vous permet :
+ℹ️ Cette  application vous permet :
 - De charger vos fichiers CSV contenant les données de perméabilité.
 - De filtrer par couche, puits et valeurs de perméabilité.
 - D’afficher les points sur une carte.
